@@ -1,3 +1,4 @@
+[![](https://github.com/angzla/pytest-lab/workflows/tests/badge.svg)](https://github.com/angzla/pytest-lab/actions?query=workflow%3Atests)
 # Pytest Lab
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
